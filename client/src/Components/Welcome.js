@@ -6,7 +6,7 @@ function HomeScreen() {
     <section className="homescreen">
       <div className="homescreen__info">
         <div className="homescreen__logo">
-          <h1>SPACE COMP</h1>
+          <h1>MODCOPTERS</h1>
           <h2 className="homescreen__logoInfo"> Reimagining aerial vehicles</h2>
         </div>
         <div className="homescreen__button">
