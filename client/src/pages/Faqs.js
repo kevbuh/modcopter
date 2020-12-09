@@ -23,7 +23,7 @@ function Faqs() {
         </div>
         <div className="faqs__question">
           <span className="faqs__questionTitle">
-            How do I contact SPACE COMP?
+            How do I contact MODCOPTER?
           </span>
           <span className="faqs__questionInfo">
             Visit our contact page.

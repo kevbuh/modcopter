@@ -8,7 +8,7 @@ function Products() {
     <section className="shop">
       <div className="shop__top">
         <div className="shop__title">
-          <span> SPACE COMP Products</span>
+          <span> MODCOPTER Products</span>
         </div>
         <span className="shop__titleTwo"> Click to see more info!</span>
         <span className="shop__arrow">

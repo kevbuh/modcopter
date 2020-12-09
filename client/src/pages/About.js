@@ -6,7 +6,7 @@ function About() {
     <section className="about">
       <div className="about__text">
         <div className="about__title">
-          <span>About Space Comp</span>
+          <span>About MODCOPTER</span>
         </div>
         <div className="about__info">
           <span>

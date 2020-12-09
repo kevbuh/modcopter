@@ -7,7 +7,7 @@ function ChipInfo() {
       <div className="originalproduct__left">
         <div className="originalproduct__info">
           <span>
-            Running on the WLED software and ESP8266 MicroChip, the SPACE COMP drone is perfect for a affordable aerial exploration.
+            Running on the WLED software and ESP8266 MicroChip, the MODCOPTER drone is perfect for a affordable aerial exploration.
           </span>
         </div>
       </div>

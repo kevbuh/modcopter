@@ -6,19 +6,19 @@ function PrivacyPolicy() {
   return (
     <section className="contact">
       <div>
-        <span className="contact__title">SPACE COMP</span>
+        <span className="contact__title">MODCOPTER</span>
       </div>
       <div className="contact__contactTitle">Privacy Policy</div>
       <div className="contact__container">
         <div className="contact__infoPrivacy">
           <div className="contact__infoPrivacyTitle">
-            At SPACE COMP, we will never sell your information.
+            At MODCOPTER, we will never sell your information.
           </div>
 
           <div className="contact__privacy">
             <span>
               This includes any other personal and non-public information with
-              any telemarketer or marketing agency. At SPACE COMP, we will
+              any telemarketer or marketing agency. At MODCOPTER, we will
               only reach out to you with your own consent. Your transaction
               specific information is held by Stripe and that information will
               be treated pursuant to their privacy policy. All transactions are

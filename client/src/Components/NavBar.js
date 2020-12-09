@@ -44,7 +44,7 @@ function NavBar() {
     <nav className="nav">
       <div className="nav__logo">
         <Link to="/">
-          <span className="nav__logoText">SPACE COMP</span>
+          <span className="nav__logoText">MODCOPTER</span>
           {/* <img src="https://raw.githubusercontent.com/kevinbuhlerr/LED-LIGHTS/master/client/src/ledlogo.png" alt="." /> */}
         </Link>
       </div>
