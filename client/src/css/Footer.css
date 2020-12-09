@@ -1,0 +1,172 @@
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #ffffff;
+  padding: 1rem 0;
+  padding: 2rem;
+  vertical-align: top;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.width {
+  width: 20%;
+}
+
+.footer__details {
+  font-size: 0.5rem;
+}
+
+.footer__links {
+  display: flex;
+  flex-direction: column;
+  color: #111;
+  font-size: 1rem;
+  font-weight: 400;
+  margin: 0 1rem;
+}
+
+.footer__link {
+  color: #111;
+  font-size: 0.9rem;
+}
+
+.footer__quickLinks {
+  color: #111;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+  text-decoration: solid !important;
+}
+
+.footer__companyName {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0.5rem;
+}
+
+.footer__policy {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.footer__copyrightIcon {
+  font-size: 20px !important;
+}
+
+.footer__mediaIcon {
+  margin: 1rem !important;
+}
+
+.footer__media {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer__mediaInfo {
+  font-weight: 600;
+  font-size: 17px;
+}
+
+.footer__companyArea {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer__privacy {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer__twoBlocks {
+  display: flex;
+}
+
+.footer__policy {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer__policy h6 {
+  display: flex;
+  justify-content: center;
+  width: 45%;
+  margin: 0.1rem;
+}
+
+@media screen and (max-width: 650px) {
+  .footer {
+    flex-direction: column;
+    padding: 1rem 0;
+    height: 100vw;
+    padding: 2rem;
+    vertical-align: top;
+  }
+
+  .footer__links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #111;
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  .footer__link {
+    color: #111;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+  .footer__quickLinks {
+    color: #111;
+    font-weight: 800;
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+  }
+
+  .footer__companyName {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 1rem;
+  }
+
+  .footer__policy {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .footer__copyrightIcon {
+    font-size: 20px !important;
+  }
+
+  .footer__mediaIcon {
+    margin: 1rem !important;
+  }
+
+  .footer__media {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .footer__mediaInfo {
+    font-weight: 600;
+    font-size: 17px;
+  }
+
+  .footer__companyArea {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .footer__privacy {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
