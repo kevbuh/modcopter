@@ -26,7 +26,7 @@ function Faqs() {
             How do I contact MODCOPTER?
           </span>
           <span className="faqs__questionInfo">
-            Visit our contact page.
+            Visit our contact page here.
           </span>
         </div>
         
